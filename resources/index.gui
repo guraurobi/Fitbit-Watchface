@@ -1,0 +1,16 @@
+<svg id="container">
+  <image id="background" href="img/background.png"/>
+  <image id="logo" href="img/stefaninilogo.png"/>
+  
+  
+  <text id="hourLabel" />  
+  
+  
+  <image id="stepsImage" href="img/steps.png"/>
+  <image id="heartImage" href="img/heart.png"/>
+  <image id="caloriesImage" href="img/flame.png"/>
+  
+  <text id="stepsLabel" />
+  <text id="caloriesLabel" />
+  <text id="heartLabel" />
+</svg>
