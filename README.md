@@ -1,2 +1,2 @@
-# Stefanini-Watchface
+# Fitbit Watchface
 Demo smartwatch.
